@@ -1,0 +1,161 @@
+/*
+Theme Name: TDDewey Sandbox
+Theme URI: http://websitesthatdontsuck.com
+Description:
+Author: tddewey
+Author URI: http://websitesthatdontsuck.com
+Version: 1.0
+Tags:
+
+License: GPL v3
+License URI: http://www.gnu.org/copyleft/gpl.html
+*/
+
+/*
+Tags that can be used above:
+
+	Colors
+		black, blue
+		brown
+		gray
+		green
+		orange
+		pink
+		purple
+		red
+		silver
+		tan
+		white
+		yellow
+		dark
+		light
+
+	Columns
+		one-column
+		two-columns
+		three-columns
+		four-columns
+		left-sidebar
+		right-sidebar
+
+	Width
+		 fixed-width
+		 flexible-width
+
+	Features
+		blavatar
+		buddypress
+		custom-background
+		custom-colors
+		custom-header
+		custom-menu
+		editor-style
+		featured-image-header
+		featured-images
+		front-page-post-form
+		full-width-template
+		microformats
+		post-formats
+		rtl-language-support
+		sticky-post
+		theme-options
+		threaded-comments
+		translation-ready
+
+	Subject
+		holiday
+		photoblogging
+		seasonal
+*/
+
+/**
+ * Global (main) Styles
+ * Includes tags that affect large areas of the design such as body{} html{}, etc.
+ */
+
+/**
+ * Anchors and Links
+ * For consistency, it would be nice if all styles for links are placed here.
+ */
+
+/**
+ * Header and Headings
+ * Takes care of the typography for all headings, and other styles related to the header in general.
+ * Note that header navigation is in the next section (navigation)
+ */
+
+/**
+ * Navigation
+ * Styles for menus and whatnot go here. Note that a theme may have more than one navigation area.
+ */
+
+/**
+ * Content
+ * Styles specific to the main content go here
+ */
+
+/**
+ * Sidebar and Widgets
+ */
+
+/**
+ * Footer
+ * Styles for the footer go here
+ */
+
+/**
+ * Tables
+ * How tables are displayed, or any special data table types are set up here
+ */
+
+/**
+ * Forms
+ * Form elements are styled here
+ */
+
+/**
+ * Comments
+ * The comment display area and any special styles for the comment form (not defined above) are here
+ */
+
+/**
+ * Responsive / Media Queries
+ * Above styles are common across all screen sizes, we override or add styles for larger browsers widths
+ */
+
+/* 480px and up
+( e.g. iPhone Landscape ) */
+@media only screen and (min-width: 480px) {
+}
+
+/* 600px and up
+( e.g. Kindle Portrait ) */
+@media only screen and (min-width: 600px) {
+}
+
+/* 768px and up
+( e.g. iPad Portrait ) */
+@media only screen and (min-width: 768px) {
+}
+
+/* 992px and up
+( e.g. iPad landscape, smaller laptops, older desktops ) */
+@media only screen and (min-width: 992px) {
+}
+
+/* 1382px and up
+( e.g. modern laptops, modern desktops ) */
+@media only screen and (min-width: 1382px) {
+}
+
+/* 2x Graphics
+( used on retina MBP, iPhone 4 and above, and other devices with a high pixel ratio ) */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+
+}
+
+/* Print
+Be the cool kid on the block with a print stylesheet. Antiquated? Think of it as a PDF stylesheet, too */
+@media print {
+
+}

@@ -1,0 +1,18 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+/* TEAM */
+  <your title>: <your name>
+  Site: 
+  Twitter: 
+  Location: 
+
+/* THANKS */
+  Starter Theme Developer: Taylor D. Dewey (http://websitesthatdontsuck.com) @tddewey
+
+/* SITE */
+	Launched:
+	Standards: HTML5, CSS3, Awesomeness
+	Components: Modernizr, jQuery, HTML5 Mobile Boilerplate
+	For: Designed for WordPress
+	How: 42.
