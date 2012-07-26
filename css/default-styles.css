@@ -1,4 +1,4 @@
-/***
+/*!
 What follows is, first, the default HTML5 Boilerplate stylesheet which is mostly based on normalize.css http://github.com/necolas/normalize.css/
 
 After the HTML5 Boilerplate display, we are using some select styles from the 320 and Up boilerplate extension. These are styles I feel should be implemented on every project, but does not assume anything about your design or typography.
@@ -6,7 +6,8 @@ After the HTML5 Boilerplate display, we are using some select styles from the 32
 After 320 and up's styles, I've added a few of my own that I also feel should be in every project.
 
 And, at the very end, are the default styles recommended by WordPress to appropriately style WP generated classes. These also happen to be required by the theme review people.
-
+*/
+/*
 	* Default HTML5 Boilerplate Stylesheet (normalize.css)
 	* Selected styles from 320 and Up boilerplate extension
 	* Styles I feel should be default in every project
@@ -578,6 +579,10 @@ ul, ol {
 }
 
 .wp-caption .wp-caption-text {
+}
+
+img#wpstats {
+	display:none
 }
 
 /**
