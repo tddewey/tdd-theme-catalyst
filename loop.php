@@ -14,7 +14,7 @@
 	<?php the_tags(); ?>
 
 </article>
-
+<?php wp_link_pages( ); ?>
 <?php endwhile; else : ?>
 
 <div <?php post_class(); ?>>
